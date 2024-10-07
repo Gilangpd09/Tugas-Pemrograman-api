@@ -1,4 +1,4 @@
-|  |  |
+
 |--|--|
 | NIM | 22104410089 |
 | Nama Lengkap | Gilang Pradana |
