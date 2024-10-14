@@ -5,7 +5,7 @@ let data = [
 		age: 21,
 		address: 'Gedog',
 		city: 'Blitar',
-		phone: '085735913078',
+		phone: '085755397098',
 		hobbies: ['coding', 'workout'],
 		work: ['student'],
 	},
